@@ -1,3 +1,3 @@
-# L_python
-python code
-This repository is used to store the python projects for learning python 
+# House price prediction_python
+Predict sales prices and practice feature engineering
+Test serveral methods: Linear Regression, Ridge regression, Lasso regression and GBM
